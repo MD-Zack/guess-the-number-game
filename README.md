@@ -23,7 +23,12 @@ Make sure you have Python 3 installed.
 ---
 Demo 
 
-Welcome its a Guessing game between 1-100 which number is right (O _ O)?
+
+Created with ❤️ 
+
+
+
+
 
 in how many try you think you can guess the number : 5
 enter your guess number : 50
